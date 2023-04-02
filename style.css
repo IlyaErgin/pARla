@@ -6,7 +6,7 @@
 body{
     width: 100%;
     background-image: url(/img/back.png);
-    background-size: 100%;
+    background-size: cover;
     background-repeat: no-repeat;
 }
 .header_button{
